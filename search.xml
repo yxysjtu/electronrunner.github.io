@@ -8,6 +8,8 @@
 
 <p>test <code>print()</code></p>
 <h3 id="PLAN"><a href="#PLAN" class="headerlink" title="PLAN"></a>PLAN</h3><ul>
+<li>my intepreter</li>
+<li>dsp lib</li>
 <li>STM32 ADC EEG graph plotter</li>
 <li>STM32 camera GPS car</li>
 <li>chemistry equibrium system simulation</li>
