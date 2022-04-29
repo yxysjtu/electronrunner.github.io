@@ -2,12 +2,13 @@
 <search>
   <entry>
     <title>MY NEW BLOG!!</title>
-    <url>/2022/04/29/post1/</url>
+    <url>/2022/04/29/helloworld/</url>
     <content><![CDATA[<h3 id="WHY-SETUP-THIS-BLOG"><a href="#WHY-SETUP-THIS-BLOG" class="headerlink" title="WHY SETUP THIS BLOG"></a>WHY SETUP THIS BLOG</h3><p>I don’t know. Just for fun.<br>Maybe it can be used to record some of my interesting projects, like arduino, stm32, c++, verilog based projects. Maybe I can record my feelings, or my long long todo list. Or some articles in the literature domain.</p>
 <h3 id="TEST-CODE-DISPLAY"><a href="#TEST-CODE-DISPLAY" class="headerlink" title="TEST CODE DISPLAY"></a>TEST CODE DISPLAY</h3><figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;iostream&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span>&#123;</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 
 <p>test <code>print()</code></p>
 <h3 id="PLAN"><a href="#PLAN" class="headerlink" title="PLAN"></a>PLAN</h3><ul>
+<li>hexo md editor</li>
 <li>my intepreter</li>
 <li>dsp lib</li>
 <li>STM32 ADC EEG graph plotter</li>
@@ -24,11 +25,11 @@
       </categories>
   </entry>
   <entry>
-    <title>test2</title>
-    <url>/2022/04/29/test2/</url>
-    <content><![CDATA[]]></content>
+    <title>tree</title>
+    <url>/2022/04/29/tree/</url>
+    <content><![CDATA[<h3 id="AVL"><a href="#AVL" class="headerlink" title="AVL"></a>AVL</h3>]]></content>
       <categories>
-        <category>test</category>
+        <category>data_structure</category>
       </categories>
   </entry>
 </search>
